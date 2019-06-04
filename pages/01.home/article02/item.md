@@ -1,6 +1,5 @@
 ---
 title: 'Introducing The Ideal Pragmatist'
-media_order: p034pc7s.jpg
 taxonomy:
     category:
         - 'The Ideal Pragmatist'
