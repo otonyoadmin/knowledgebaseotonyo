@@ -4,6 +4,7 @@ media_order: 'starting now.jpg'
 taxonomy:
     category:
         - 'One-Door Psychosynthesis'
+        - '1Door Psychosynthesis for Applied Psychosynthesis'
     author:
         - 'Tony Owens'
 media: video
