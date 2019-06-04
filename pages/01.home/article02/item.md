@@ -11,7 +11,7 @@ taxonomy:
 media: video
 ---
 
-![](starting%20now.jpg)
+> ![](http://)![](starting%20now.jpg)
 The Ideal Pragmatist provides a cloak framework for the ideal role in service of the goals of Desire Dynamics. Process orientated origins enable effortless engagement using flow controls directed by experiences. Infinetely inclusive, designed for conitnuous integration of constantly emergent human knowledge during positive participation in the present.
 
 
