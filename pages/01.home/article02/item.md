@@ -1,5 +1,5 @@
 ---
-title: 'Introducing The Ideal Pragmatist'
+title: '![](starting%20now.jpg) Introducing The Ideal Pragmatist'
 media_order: 'starting now.jpg'
 taxonomy:
     category:
@@ -11,7 +11,7 @@ taxonomy:
 media: video
 ---
 
-The Ideal Pragmatist provides a cloak framework for the ideal role in service of the goals of Desire Dynamics. Process orientated origins enable effortless en![](starting%20now.jpg)gagement using flow controls directed by experiences. Infinetely inclusive, designed for conitnuous integration of constantly emergent human knowledge during positive participation in the present.
+The Ideal Pragmatist provides a cloak framework for the ideal role in service of the goals of Desire Dynamics. Process orientated origins enable effortless engagement using flow controls directed by experiences. Infinetely inclusive, designed for conitnuous integration of constantly emergent human knowledge during positive participation in the present.
 
 
 By reimagining, inhabiting and emulating the role of The Ideal Pragmatist, using the ideal attitude, while navigating with the highest common denominator you will enliven positive participation in the present, which is where we want to exert out will.
