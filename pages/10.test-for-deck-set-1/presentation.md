@@ -6,7 +6,8 @@ taxonomy:
         - 'Benifits & Features'
 ---
 
-#### Presently, we all emerge from within the drag of desire, even before subject object notions, already participating through commitments made in habit, to repeat and the leap for the human mind emerges from the gap between emptiness and the thing dependent nothing. 
+#### Our next first step can begin from the infinetley open to emergent knowledge.
+Presently, we all emerge from within the drag of desire, even before subject object notions, already participating through commitments made in habit, to repeat and the leap for the human mind emerges from the gap between emptiness and the thing dependent nothing. 
 
 ![](tracks_snow.jpg)
 
