@@ -6,5 +6,8 @@ taxonomy:
         - Feature
 ---
 
-Presently we all emerge from within the drag of desire already participating through commitments to repeat and the leap for the human mind emerges from the gap between emptiness and the thing dependent nothing. 
+#### Presently, we all emerge from within the drag of desire, even before subject object notions, already participating through commitments made in habit, to repeat and the leap for the human mind emerges from the gap between emptiness and the thing dependent nothing. 
+
 ![](tracks_snow.jpg)
+
+### works with wanting to know!
