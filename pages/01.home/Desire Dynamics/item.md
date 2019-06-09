@@ -5,6 +5,10 @@ taxonomy:
         - 'Desire Dynamics'
 ---
 
+Desire Dynamics provides easily understood and enjoyable to implement, elemental structures, including an anti fragile self conception, which can enable an effortlessly open minded attitude that synthetically integrates new constantly emergent knowledge without unecessary physical, emotional and mental obstruction.
+
+receptive in nature, 
+
 Desire Dynamics provides a new, philosophically sound, neo pragmatic infrastructure that enables optimum, continuous integration by individuals, groups and teams of rapidly emergent knowledge during agile professional knowledge work.
 By providing a new synthetically integrated anti-fragile, autonomous Self-conception, in distinct relationship with personal 'I' conceptions, users can actively
 * identify and remove bias during discernment
