@@ -1,5 +1,5 @@
 ---
-title: 'Value Propositions related to Desire Dynamics Positive Participation With Emptiness As First Cause; start in the best solution - Knowing how knowledge - Knowledge for Positive Participation. enabling effortless continuous integration of emergent human knowledge for positive participation'
+title: 'Value Propositions related to Desire Dynamics Positive Participation Practice, With Emptiness As First Cause; start in the best solution - Knowing how knowledge - Knowledge for Positive Participation. enabling effortless continuous integration of emergent human knowledge for positive participation'
 taxonomy:
     category:
         - 'Desire Dynamics'
