@@ -15,6 +15,7 @@ Each user of ASM devises, styles and modifies their own individual **Core-i** us
 * The Core-i serves as the vehicle for enabling and synthetically integrating Self will and i-Role will.
 
 The first Framing the Core-i is carried out in two stages, the first outlines and actively includes the 'Self will' and the second outlines and includes the 'Role, desires and function'.
+===
 
 #### Including Self Will within Core-i
 The nature of the Self in Agile Self Management is essentially receptive. Self when experienced in relationship with i-identities in all their manifest forms, will manifest as agape love in the form of compassionate, receptive understanding.
