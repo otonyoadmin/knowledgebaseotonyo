@@ -1,5 +1,8 @@
 ---
 title: testpage1fordiagram
+taxonomy:
+    category:
+        - Tests
 ---
 
 [sequence]
