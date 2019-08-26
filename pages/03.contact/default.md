@@ -1,5 +1,7 @@
 ---
-title: Contact Us
+title: 'Contact Us'
+recaptchacontact:
+    enabled: true
 ---
 
 We'd love to hear from you.
