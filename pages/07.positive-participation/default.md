@@ -13,5 +13,5 @@ Positive Participation requires knowledge of what is positive for the 'Me' in yo
 * have been, are and will be in.
 Me is where the experience of satisfied desire happens, our 'I' is where we form a picture of our 'Objects Of Desire', where we discover our discriptions of  
 
-![Sky and Mountain](lawaysmebecoming.jpg?resize=300,450&classes=left)
+!(lawaysmebecoming.jpg?resize=300,450&classes=left)
 Positive Participation, with continuously emergent human knowledge,requires the reliable, current available, use of the highest common denominator, which makes emptiness the ideal always on mind wash, once optimum balance is achieved using self verified knowledge.
