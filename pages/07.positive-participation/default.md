@@ -11,7 +11,10 @@ taxonomy:
 Positive Participation requires knowledge of what is positive for the 'Me' in you and me.
 * The 'Me' is what underpines the one Self and the many "I's" we inhabit during our life time
 * have been, are and will be in.
-Me is where the experience of satisfied desire happens, our 'I' is where we form a picture of our 'Objects Of Desire', where we discover our discriptions of  
+Me is where the experience of satisfied desire happens, our 'I' is where we form a picture of our 'Objects Of Desire', where we discover our discriptions of 
+[clearboth]
+
+![Sky and Mountain](lawaysmebecoming.jpg?resize=600,450&classes=caption,caption-right,figure-right "Photo by Chase Moyer on Unsplash")
 [clearboth]
 
 ![Sky and Mountain](lawaysmebecoming.jpg?resize=200,250&classes=left)
