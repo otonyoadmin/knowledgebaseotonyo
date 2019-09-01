@@ -1,5 +1,5 @@
 ---
-title: 'Positive Participation With Emergent Human Knowledge'
+title: '2Positive Participation With Emergent Human Knowledge'
 media_order: lawaysmebecoming.jpg
 taxonomy:
     category:
@@ -14,6 +14,6 @@ Positive Participation requires knowledge of what is positive for the 'Me' in yo
 Me is where the experience of satisfied desire happens, our 'I' is where we form a picture of our 'Objects Of Desire', where we discover our discriptions of  
 [clearboth]
 
-![Sky and Mountain](lawaysmebecoming.jpg?resize=300,250&classes=left)
+![Sky and Mountain](lawaysmebecoming.jpg?resize=200,250&classes=left)
 
 Positive Participation, with continuously emergent human knowledge,requires the reliable, current available, use of the highest common denominator, which makes emptiness the ideal always on mind wash, once optimum balance is achieved using self verified knowledge.
