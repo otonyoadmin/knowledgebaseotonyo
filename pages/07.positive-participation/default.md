@@ -13,7 +13,7 @@ Positive Participation requires knowledge of what is positive for the 'Me' in yo
 * Desire we experience from within the dynamic of time when we inhabit a goal orientated 'I' seeking satisfaction
 * Our Self we experience within time as receptive and absent of goals such as when we are delighted with what is   
 * Our Doubtless authentic Self is receptive in nature while our 'I' is always identified with goals and outcomes
-* Our inner feelings and experiences of The dynamic between a receptive Self and a goal orientated 'I'  
+* Our inner feelings and experiences of The dynamic between a receptive Self and a goal orientated 'I' created competing seemingly inner states and it is the joyful synthesis of this dynamic which Agile Self Managment enables.
 * have been, are and will be in.
 Me is where the experience of satisfied desire happens, our 'I' is where we form a picture of our 'Objects Of Desire', where we discover our discriptions of 
 [clearboth]
