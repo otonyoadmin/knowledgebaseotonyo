@@ -16,10 +16,7 @@ Positive Participation requires knowledge of what is positive for the 'Me' in yo
 * Our inner feelings and experiences of The dynamic between a receptive Self and a goal orientated 'I' created competing seemingly inner states and it is the joyful synthesis of this dynamic which Agile Self Managment enables.
 * have been, are and will be in.
 Me is where the experience of satisfied desire happens, our 'I' is where we form a picture of our 'Objects Of Desire', where we discover our discriptions of 
-[clearboth]
 
-![Sky and Mountain](lawaysmebecoming.jpg?resize=600,450&classes=caption,caption-right,figure-right "Photo by Chase Moyer on Unsplash")
-[clearboth]
 
 
 Positive Participation, with continuously emergent human knowledge,requires the reliable, current available, use of the highest common denominator, which makes emptiness the ideal always on mind wash, once optimum balance is achieved using self verified knowledge.
