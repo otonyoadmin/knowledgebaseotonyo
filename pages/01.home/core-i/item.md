@@ -13,7 +13,7 @@ Within Agile Self Management the **Core-i** is the name given to the ideal frami
 Each user of ASM devises, styles and modifies their own individual **Core-i** using, what they will, of foundational ideal conceptions of the charecter and nature of the **Core-i**, given two key functions of the **Core-i**:
 * Agile Self Management seeks to integrate emergent human knowledge a effortlessly and as rapidly as possible into Positive Participation in Role-i's, including the Core-i.
 * The Core-i serves as the vehicle for enabling and synthetically integrating Self will and i-Role will.
-
+![](Domain_coloring_x2-1_x-2-i_x-2-i_d_x2+2+2i.xcf.png)
 The first Framing the Core-i is carried out in two stages, the first outlines and actively includes the 'Self will' and the second outlines and includes the 'Role, desires and function'.
 ===
 
