@@ -1,5 +1,8 @@
 ---
 title: 'Self Knowledge'
+taxonomy:
+    category:
+        - 'Agile Self Management'
 ---
 
 The method is essentially practical in nature as it takes account our actual everyday experiences as individuals in relationship with our refined objects of desire. 
