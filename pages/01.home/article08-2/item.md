@@ -1,5 +1,5 @@
 ---
-title: 'The Self Must Have Room For All Of Me'
+title: 'The Self Can Provide Room For All Of Me'
 taxonomy:
     category:
         - 'The Ideal Pragmatist'
