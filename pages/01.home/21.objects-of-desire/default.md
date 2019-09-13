@@ -13,5 +13,5 @@ Broadly within Agile Self Management, all named or nameable desires may be consi
 ![](objectsofdesiremaslow.jpg)
 
 Understanding the transient nature of objects of desire can be helped if we simply reflect for a moment about our actual objects of desire.
-
+![](objectsofdesiremaslow2.jpg)
 The objects we desire today are often different to those which we desired 10 or 20 years ago and many of the objects of desire we had 10 or 20 years ago may now be considered as undesirable.
