@@ -2,4 +2,4 @@
 title: Home
 ---
 
-![](http://![](camelneedle.png))
+![](camelneedle.png)
