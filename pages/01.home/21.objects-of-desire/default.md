@@ -7,8 +7,9 @@ taxonomy:
         - 'objects of desire'
 ---
 
-# Objects Of Desire
-Broadly within Agile Self Management, all named or nameable desires may be considered as 'objects of desire'. Objects of desire are bound by time and culture in relationship with personal age and experience.
+# Exploring Our Objects Of Desire
+#### Generally within Agile Self Management, all named or nameable desires may be considered as 'objects of desire'.
+Objects of desire are bound by time and culture in relationship with personal age and experience.
 
 ![](fullobjectsofdesre.jpg?cropResize=300,300)
 
