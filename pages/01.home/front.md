@@ -2,4 +2,3 @@
 title: Home
 ---
 
-![](camelneedle.png)
