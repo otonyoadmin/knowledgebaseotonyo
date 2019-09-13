@@ -1,5 +1,11 @@
 ---
 title: 'Identities & Idendifications, Who Am I?'
+taxonomy:
+    category:
+        - 'Identities & Identifications'
+    tag:
+        - Identities
+        - Identifications
 ---
 
 Within Agile Self Management identities and identifications are similar in core nature as they are both considered as holons.
