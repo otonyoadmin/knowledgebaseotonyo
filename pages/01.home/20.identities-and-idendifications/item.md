@@ -1,5 +1,5 @@
 ---
-title: 'Identities & Idendifications, Who Am I?'
+title: 'Who Am I? - Identities & Idendifications '
 taxonomy:
     category:
         - 'Identities & Identifications'
@@ -8,7 +8,7 @@ taxonomy:
         - Identifications
 ---
 
-Within Agile Self Management identities and identifications are similar in core nature as they are both considered as holons.
+Within Agile Self Management identities and identifications are similar in core nature as they are both considered as hierarchy holons, where desires have been previously objectified.
 
 * Identities can be personal 'I' identities such as I am a sister (sibling), I am a supervisor (work role), I am a friend (personal role). They can also be internal 'I' identities related to recursive mindset identities which Self reflect, such as my-Critic-I, which critically reflects upon an event or person or my-Optimistic-I which always sees the glass half full with regard to an event or a person.
 
