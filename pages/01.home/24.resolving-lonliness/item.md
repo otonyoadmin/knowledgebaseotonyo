@@ -1,5 +1,13 @@
 ---
 title: 'Resolving Loneliness'
+taxonomy:
+    category:
+        - 'Benifits & Features'
+        - Benifits
+    tag:
+        - Benifits
+        - Loneliness
+        - 'Me My-Self & My-I''s'
 recaptchacontact:
     enabled: false
 ---
