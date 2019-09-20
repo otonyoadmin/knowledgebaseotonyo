@@ -1,5 +1,8 @@
 ---
 title: testpageforASMitem
+taxonomy:
+    category:
+        - 'Agile Self Management'
 recaptchacontact:
     enabled: false
 ---
